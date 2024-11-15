@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Calisanve Dep\Calisanve Dep\bin\Debug\Calisanve Dep.exe.config
+C:\Users\User\source\repos\Calisanve Dep\Calisanve Dep\bin\Debug\Calisanve Dep.exe
+C:\Users\User\source\repos\Calisanve Dep\Calisanve Dep\bin\Debug\Calisanve Dep.pdb
+C:\Users\User\source\repos\Calisanve Dep\Calisanve Dep\obj\Debug\Calisanve Dep.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Calisanve Dep\Calisanve Dep\obj\Debug\Calisanve Dep.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Calisanve Dep\Calisanve Dep\obj\Debug\Calisanve Dep.exe
+C:\Users\User\source\repos\Calisanve Dep\Calisanve Dep\obj\Debug\Calisanve Dep.pdb
